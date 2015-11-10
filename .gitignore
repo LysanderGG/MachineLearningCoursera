@@ -1,0 +1,7 @@
+*.swp
+submit*
+*.mat
+.DS_Store
+*.png
+*.jpg
+*/lib/*
